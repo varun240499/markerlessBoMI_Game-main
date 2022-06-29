@@ -1,7 +1,7 @@
 # markerlessBoMI_Game
 Biomedical Robotics Assignment 4
 
-The github repository is available at the link: 
+The github repository is available at the link: https://github.com/varun240499/markerlessBoMI_Game-main
 
 # Abstract
 Starting from the BoMI markerless application https://github.com/MoroMatteo/markerlessBoMI_FaMa.git
